@@ -6,3 +6,5 @@ class CreateCostumeStores < ActiveRecord::Migration
       t.
   end 
 end 
+
+#name, location, costume_inventory(integer), num_of_employees(integer), still_in_business(boolean), opening_time(date time), closing_time(date time) 
