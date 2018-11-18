@@ -13,4 +13,3 @@ class CreateHauntedHouses < ActiveRcord::Migration[4.2]
   end 
 end 
 
-#name, location, theme, price(float), family_friendly(boolean), opening_date(date time), closing_date(date time), description(text)
